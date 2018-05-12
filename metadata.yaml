@@ -1,0 +1,32 @@
+_repo: The-Open-Question--A-Tale-of-Two-Temperaments_37827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robins, Elizabeth
+    aliases:
+    - Parks, Elizabeth Robins
+    - Parkes, Elizabeth Robins
+    - Parks, Mrs. George Richmond
+    - Raimond, C. E.
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '3274'
+    url: http://www.gutenberg.org/2009/agents/3274
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins
+description: ''
+gutenberg_issued: '2011-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'The Open Question: A Tale of Two Temperaments'
+url: http://www.gutenberg.org/ebooks/37827
